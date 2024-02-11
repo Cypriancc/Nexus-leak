@@ -25,10 +25,6 @@ I leaked Nexus because dexv was using me for the "custom packer" made by eintim.
 The captcha solver was a [2captcha](https://2captcha.com/) admin api key. The key is `f86fe003c5bc005f93a7516e2973658c`
 
 
-### [Dev](https://dexv.lol)
-### [Funding](https://discord.gg/hbh)
-### [Website](https://discord.gg/quant)
-
 ## Credits
 
 ### [Dev](https://dexv.lol)
